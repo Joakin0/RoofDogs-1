@@ -40,7 +40,7 @@ namespace Climbing
         {
             None,
             Freelook,
-            Slide
+            Slide,
         }
 
         CameraType curCam = CameraType.None;
